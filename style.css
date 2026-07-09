@@ -1,0 +1,20 @@
+body{
+background: #22C1C3;
+background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+
+.TITLE {
+  
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    border-radius: 50px;
+    box-shadow: 8px 10px 9px palevioletred;
+}
+#navbar
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(244, 242, 248);
+    
+}
